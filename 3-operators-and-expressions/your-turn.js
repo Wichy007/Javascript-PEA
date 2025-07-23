@@ -18,3 +18,6 @@ Complete the following exercises.
 
 
 // 6. Use the ternary operator to check if a number is even or odd and log the result to the console.
+
+
+// 7. Use the nullish coalescing operator to provide a default value for a variable that might be null or undefined.

@@ -22,3 +22,10 @@ const originalArray = [1, 2, 3];
 // 6. Merge the following two objects using the spread operator:
 const obj1 = { a: 1, b: 2 };
 const obj2 = { c: 3, d: 4 };
+
+
+// 7. Use Object.keys() to get all the keys from the 'person' object and log them.
+
+
+// 8. Use Object.values() to get all the values from the 'person' object and log them.
+
