@@ -5,9 +5,10 @@ const PI = 3.14159;
 
 // The value of a 'const' is not immutable, but the variable identifier cannot be reassigned.
 const person = {
-  name: "John"
+  name: "John",
 };
+console.log(person);
 
 // This is allowed because we are changing a property of the object, not reassigning the object itself.
-person.name = "Jane"; 
+person.name = "Jane";
 console.log(person.name); // logs "Jane"
